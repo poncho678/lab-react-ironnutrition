@@ -5,7 +5,7 @@
 import { Divider, Input } from 'antd';
 
 // Iteration 4
-function AddFoodForm(props) {
+function AddFoodForm({ props }) {
   return (
     <form>
       <Divider>Add Food Entry</Divider>
